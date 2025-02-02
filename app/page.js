@@ -6,7 +6,6 @@ import HomeHero from "@/components/HomeHero/HomeHero";
 import Legacy from "@/components/Legacy/Legacy";
 import Philosophy from "@/components/Philosophy/Philosophy";
 import Technology from "@/components/Technology/Technology";
-import Image from "next/image";
 
 export default function Home() {
   return (
